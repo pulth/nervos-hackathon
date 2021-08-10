@@ -8,3 +8,5 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 [https://rinkeby.etherscan.io/tx/0xb5a924b251f4d73a6d0ed2b46f7c1a262938e3309f6dd1bf47ab9711ea551282](https://rinkeby.etherscan.io/tx/0xb5a924b251f4d73a6d0ed2b46f7c1a262938e3309f6dd1bf47ab9711ea551282)
 ## 5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
 [https://explorer.nervos.org/aggron/transaction/0xc82f3f8e18f7d3d929be03391b5636395b2371d9c5c2fe1bcb53cc736de698cd](https://explorer.nervos.org/aggron/transaction/0xc82f3f8e18f7d3d929be03391b5636395b2371d9c5c2fe1bcb53cc736de698cd)
+## BONUS. Check Your Layer 2 Balance
+![bonus.png](./bonus.png)
