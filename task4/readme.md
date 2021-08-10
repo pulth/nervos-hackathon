@@ -7,4 +7,4 @@
 ## 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
 ![](./l2_transfer.png)
 ## 5. The SUDT ID from the console output after executing the deposit script (in text format).
-1115
+1151
