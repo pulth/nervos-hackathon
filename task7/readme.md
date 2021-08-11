@@ -1,12 +1,12 @@
 # Task 7 - Port An Existing Ethereum DApp To Polyjuice
 ---
-## 1) Screenshot of Application on Godwin
+## 1) Screenshots of your application running on Godwoken
 ![](./ss1.png)
 ![](./ss2.png)
 ![](./ss3.png)
 ![](./ss4.png)
 ---
-## 2) Link to Gitub Repository:
+## 2) Link to the GitHub repository with your application which has been ported to Godwoken:
 https://github.com/pulth/nervos-hackathon/tree/main/task7/app
 ---
 ## 3) Transaction Hash of Deployment Transaction:
