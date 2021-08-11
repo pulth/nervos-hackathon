@@ -9,7 +9,7 @@
 
 ## 2. The address of the SUDT-ERC20 Proxy Contract that you deployed (in text format).
 ```
-0x8AB81ebA5207D82c6271a2b0564244F97a5D30f5
+0xA18FEA44340DD9BB7abff6829Da3d98B9452b8BE
 ```
 
 ## 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
