@@ -2,7 +2,7 @@
 
 ## A screenshot of the accounts you created (account list) in ckb-cli.
 
-[](screen0.png)
+![](screen0.png)
 
 ## A link to the Layer 1 address you funded on the Testnet Explorer.
 
@@ -11,11 +11,11 @@
 
 ## A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
 
-[](screen1.png)
+![](screen1.png)
 
 ## A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 
-[](screen2.png)
+![](screen2.png)
 
 ## The transaction hash of the "Contract call" from the console output (in text format).
 
